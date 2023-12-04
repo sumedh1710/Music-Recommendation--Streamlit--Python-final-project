@@ -4,7 +4,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-spotify_data = pd.read_csv('.\sampled_dataset.csv')
+spotify_data = pd.read_csv('sampled_dataset.csv')
 
 
 
