@@ -1,4 +1,4 @@
-# Python-project
+Music Recoommendation system-Streamlit app
 streamlit app link-https://python-project-qwproqpjunxw5vgjxp229t.streamlit.app/
 Python final project
 Spotify recommendation system
