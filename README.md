@@ -1,5 +1,5 @@
 Music Recoommendation system-Streamlit app
-streamlit app link-https://music-recommendation--app-ngcuhwibte4nvcupszus4x.streamlit.app/
+streamlit app link-https://music-recommendation--app--python-final-project-wnyfebdm9tbggz.streamlit.app/
 Python final project
 Spotify recommendation system
 technologies used
